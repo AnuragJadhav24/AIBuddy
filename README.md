@@ -1,2 +1,2 @@
 # AIBuddy
-AiBuddy, an AI-based finance management web app, leverages cutting-edge artificial intelligence to streamline financial tasks. Offering personalized budgeting, expense tracking, and investment insights, AiBuddy empowers users with smart, data-driven decisions for optimal financial well-being.
+Meet AiBuddy—a cutting-edge AI chat companion, designed to elevate your conversational experience. Engage in intelligent and dynamic interactions with the future of chat technology. #AiBuddy #AIChat 🤖🗨️
